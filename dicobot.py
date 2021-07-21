@@ -5,8 +5,8 @@ from bs4 import BeautifulSoup
 from discord.ext import commands
 
 bot = commands.Bot(command_prefix='$')
-discord_key = 'ODY3MjkyNTQyOTgyMDI5MzIy.YPe_Hw.H3Cql7snffIodGmkEM7v8FgmBaA'
-kakao_key = '378f8d8ea4d9af5715298cb51ad166d8'
+discord_key = 'discord_key'
+kakao_key = 'kakao_key'
 server_URL = 'http://localhost:1234'
 
 '''
